@@ -1,7 +1,7 @@
 # List all globally installed NPM packages
 
-Recently I've wondered how to list all globally installed NPM packages and what 
-version they are. Turned out, I had to ask Google for it. [1]
+Recently I have wondered how to list all globally installed NPM packages and 
+what version they are. Turned out, I had to ask Google for it. [1]
 
 ```shell
 npm list -g --depth=0

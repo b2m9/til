@@ -9,7 +9,7 @@ and `keyup`.
 Special keys like backspace, arrow keys, etc. are not captured by `keypress`.
 One has to use `keydown` or `keyup` for such cases.
 
-For inconsistencies across browsers, see Quirksmode [1].
+For inconsistencies across browsers, see Quirksmode. [1]
 
 [Here's a website to test key codes directly in the browser.](http://www.asquare.net/javascript/tests/KeyCode.html)
 

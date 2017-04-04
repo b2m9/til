@@ -3,7 +3,7 @@
 `Number` does not simply inherit `toString` from `Object`. Instead it overrides
 the method and takes a parameter `radix`. The parameter can be any value
 between 2 and 32, if not set it will default to 10. Negative numbers are
-preserved.
+preserved. [1]
 
 ```javascript
 (255).toString(16) // Returns 'ff'

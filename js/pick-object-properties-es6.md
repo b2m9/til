@@ -20,7 +20,7 @@ const {data, key} = response
 // creates variables `data` and `key` with respective values
 ```
 
-Kudos to Nicolás Bevacqua's great blog post [1].
+Kudos to Nicolás Bevacqua's great blog post. [1]
 
 References:
 
